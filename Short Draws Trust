@@ -363,3 +363,4 @@ https://donuts.domains/about/policies/
 <!-- wp:shortcode -->
 https://floridadep.gov/
 <!-- /wp:shortcode -->
+[![Continuous Integration](https://github.com/dogecoin/dogecoin/actions/workflows/ci.yml/badge.svg)](https://github.com/dogecoin/dogecoin/actions/workflows/ci.yml)
